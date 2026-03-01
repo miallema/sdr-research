@@ -2,6 +2,8 @@
 venv_sdr/
 __pycache__/
 
+screenshots/
+
 # Large Data Files (Don't push radio captures!)
 *.iq
 *.wav
