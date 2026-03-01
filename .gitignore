@@ -1,0 +1,9 @@
+# Environments
+venv_sdr/
+__pycache__/
+
+# Large Data Files (Don't push radio captures!)
+*.iq
+*.wav
+*.csv
+*.npy
